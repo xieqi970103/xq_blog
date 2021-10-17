@@ -1,4 +1,4 @@
-# blog
+# xq_blog
 
 ## Project setup
 ```
